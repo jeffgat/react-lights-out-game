@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-lights-out-game/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-lights-out-game/static/js/main.1246e3e7.chunk.js",
+    "main.js.map": "/react-lights-out-game/static/js/main.1246e3e7.chunk.js.map",
+    "runtime~main.js": "/react-lights-out-game/static/js/runtime~main.b925e13f.js",
+    "runtime~main.js.map": "/react-lights-out-game/static/js/runtime~main.b925e13f.js.map",
+    "static/js/2.4ceabd32.chunk.js": "/react-lights-out-game/static/js/2.4ceabd32.chunk.js",
+    "static/js/2.4ceabd32.chunk.js.map": "/react-lights-out-game/static/js/2.4ceabd32.chunk.js.map",
+    "index.html": "/react-lights-out-game/index.html",
+    "precache-manifest.9d6d5b5be2ab1d70838c2de0149dddda.js": "/react-lights-out-game/precache-manifest.9d6d5b5be2ab1d70838c2de0149dddda.js",
+    "service-worker.js": "/react-lights-out-game/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-lights-out-game/static/css/main.d1b05096.chunk.css.map",
+    "static/media/logo.svg": "/react-lights-out-game/static/media/logo.5d5d9eef.svg"
+  }
+}
